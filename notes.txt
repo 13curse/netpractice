@@ -1,0 +1,40 @@
+LES DIFFERENTS MASKS :
+Un mask représente une range sur laquelle un nombre
+d'ip peut se connecter
++ le préfix du mask est grand, moins sa range de connexion
+est élevée
+ex: /30 -> 2 ip | /23 -> 510 ip etc...
+
+SWITCH:
+- les hosts reliés par un switch ont le MEME mask
+
+ROUTEUR:
+- les hosts reliés par un routeur n'ont PAS forcément le meme mask
+
+Un ROUTEUR prends comme route :
+- soit default / soit l'ip de l'internet
+le plus proche => 
+- prends l'ip de l'interface
+à laquelle il doit se connecter
+
+Un HOST prends comme route :
+default => l'ip de l'interface à laquelle il est relié
+
+INTERNET prends comme route :
+l'ip de l'host avec la derniere partie = 0 + préfix du mask de l'host
+ex: ip host = 42.5.4.3 DONC ip internet = 42.5.4.0
+
+LEVEL 6:
+/25 INTERNET
+
+
+LEVEL 8:
+R1 prends l'ip entiere d'INTERNET
+
+LEVEL 9:
+
+
+
+LEVEL 10:
+
+.193 / .194 interface R22/H31
