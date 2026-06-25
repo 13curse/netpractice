@@ -28,7 +28,7 @@ The project helps build a **practical understanding** of how routers, switches, 
 - You must place **10 exported configuration files** in the **root of the repository**, one file per level.
 - Make sure all levels are completed and all exported configs are included before submission.
 
-## Resources
+## RESOURCES
 
 ### Networking concepts studied
 This project covers core networking concepts such as *TCP/IP* addressing, *IPv4*, subnet *masks*, *CIDR* notation, *private IP ranges*, *loopback addresses*, *routers*, *switches*, and the *OSI/TCP-IP* model.
