@@ -32,6 +32,7 @@ LEVEL 7:
 
 LEVEL 8:
 R1 prends l'ip entiere d'INTERNET
++ même mask partout
 
 LEVEL 9:
 
