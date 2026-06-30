@@ -27,6 +27,8 @@ ex: ip host = 42.5.4.3 DONC ip internet = 42.5.4.0
 LEVEL 6:
 /25 INTERNET
 
+LEVEL 7:
+/28 mask
 
 LEVEL 8:
 R1 prends l'ip entiere d'INTERNET
