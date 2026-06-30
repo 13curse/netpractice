@@ -28,7 +28,7 @@ LEVEL 6:
 /25 INTERNET
 
 LEVEL 7:
-/28 mask
+/30 mask
 
 LEVEL 8:
 R1 prends l'ip entiere d'INTERNET
