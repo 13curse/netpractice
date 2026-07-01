@@ -34,5 +34,9 @@ The project helps build a **practical understanding** of how routers, switches, 
 This project covers core networking concepts such as *TCP/IP* addressing, *IPv4*, subnet *masks*, *CIDR* notation, *private IP ranges*, *loopback addresses*, *routers*, *switches*, and the *OSI/TCP-IP* model.
 
 ### References
-- 42 NetPractice guide: [NetPractice - Guide](https://42-cursus.gitbook.io/guide/4-rank-04/netpractice)
-- 42 networking theory: [Theory | Guide](https://42-cursus.gitbook.io/guide/4-rank-04/netpractice/theory)
+
+| Resource / Section                  | Description                                                                                                                  | Link                                        |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| You Suck at Subnetting (série vidéo) | A video series that explains IPv4 addressing, subnet masks, and CIDR notation from the ground up | https://www.youtube.com/playlist?list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF            |
+| What is the OSI Model?               | A clear overview of the 7 OSI layers and how network communications are structured                                                                    | https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/         |
+| What is the Internet Protocol?       | A detailed explanation of how IP addresses work and how packets are routed across networks                                              | https://www.cloudflare.com/learning/network-layer/internet-protocol/ |
